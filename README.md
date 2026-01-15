@@ -40,19 +40,11 @@ Currently:
 ---
 
 ### 🧩 Skills Overview
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git" />
   </a>
 </p>
-
----
-
-### 📊 What I’m Working On
-- Building machine learning pipelines from data preprocessing to model evaluation  
-- Experiment tracking and model versioning with **MLflow**  
-- Containerizing ML applications using **Docker**  
-- Monitoring system and model performance with **Prometheus & Grafana**
 
 ---
 
