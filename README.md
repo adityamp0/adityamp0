@@ -45,7 +45,7 @@ Currently:
 ### 🧩 Skills Overview
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,linux,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
   </a>
 </p>
 
