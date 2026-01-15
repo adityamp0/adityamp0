@@ -49,8 +49,13 @@ Currently:
 ---
 
 ### 📫 Let’s Connect
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📧 Email: *(optional)*  
+
+- 💼 LinkedIn: *(add your LinkedIn link here)*   
+<p align="left">
+  <a href="https://www.linkedin.com/in/adityamaulanapamungkas/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
