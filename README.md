@@ -26,7 +26,6 @@ Currently:
 
 #### 📦 MLOps & Infrastructure
 - **Docker**
-- **Kubernetes**
 - **Prometheus**
 - **Grafana**
 
@@ -37,15 +36,13 @@ Currently:
 
 #### 🔧 Tools
 - **Git**
-- **Vim**
-- **Linux-based development**
 
 ---
 
 ### 🧩 Skills Overview
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git" />
   </a>
 </p>
 
