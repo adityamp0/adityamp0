@@ -19,27 +19,27 @@ Currently:
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Programming & Data
+#### Programming & Data
 - **Python** (Main language)
 - **scikit-learn**
 - **MLflow**
 
-#### 📦 MLOps & Infrastructure
+#### MLOps & Infrastructure
 - **Docker**
 - **Prometheus**
 - **Grafana**
 
-#### 🌐 Web & Frontend
+#### Web & Frontend
 - **HTML**
 - **CSS**
 - **JavaScript** *(currently learning)*
 
-#### 🔧 Tools
+#### Tools
 - **Git**
 
 ---
 
-### 🧩 Skills Overview
+### Skills Overview
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git" />
@@ -48,7 +48,7 @@ Currently:
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
  
 <p align="left">
   <a href="https://www.linkedin.com/in/adityamaulanapamungkas/">
