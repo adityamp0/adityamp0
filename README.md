@@ -20,7 +20,7 @@ Currently:
 ### 🛠️ Tech Stack & Skills
 
 #### Programming & Data
-- **Python** (Main language)
+- **Python** 
 - **scikit-learn**
 - **MLflow**
 
