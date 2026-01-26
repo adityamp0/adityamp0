@@ -36,6 +36,8 @@ Currently:
 
 #### Tools
 - **Git**
+- **Visual Studio Code**
+- **Colab**
 
 ---
 
