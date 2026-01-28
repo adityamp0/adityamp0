@@ -52,7 +52,6 @@ I enjoy working at the intersection of **data, algorithms, and infrastructure**,
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adityamp0&theme=tokyonight&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=adityamp0&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamp0&theme=tokyonight&layout=compact&hide_border=false)
 
